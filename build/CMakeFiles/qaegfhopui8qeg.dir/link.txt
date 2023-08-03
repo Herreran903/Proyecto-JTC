@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\qaegfhopui8qeg.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\qaegfhopui8qeg.dir/objects.a @CMakeFiles\qaegfhopui8qeg.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\qaegfhopui8qeg.dir/objects.a -Wl,--no-whole-archive -o qaegfhopui8qeg.exe -Wl,--out-implib,libqaegfhopui8qeg.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qaegfhopui8qeg.dir\linklibs.rsp
